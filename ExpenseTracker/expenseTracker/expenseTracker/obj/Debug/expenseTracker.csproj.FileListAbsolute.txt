@@ -1,0 +1,10 @@
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\bin\Debug\expenseTracker.exe.config
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\bin\Debug\expenseTracker.exe
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\bin\Debug\expenseTracker.pdb
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.csproj.AssemblyReference.cache
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.Form1.resources
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.Properties.Resources.resources
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.csproj.GenerateResource.cache
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.exe
+C:\Users\TechDevSK\source\repos\ExpenseTracker\expenseTracker\expenseTracker\obj\Debug\expenseTracker.pdb
