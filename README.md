@@ -7,4 +7,7 @@ Image:
 
 This is how the tracker looks once i press start
 Image:
+<img width="956" height="548" alt="Image" src="https://github.com/user-attachments/assets/034592eb-c270-44ef-be0f-2e08cbbfec2c" />
+
+
 
